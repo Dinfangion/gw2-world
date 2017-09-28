@@ -1,0 +1,535 @@
+body
+{
+background-repeat:no-repeat;
+background-attachment:scroll;
+background-color:#000000;
+background-position:left top;
+color:#ffffff;
+font-family:arial,helvetica,clean,sans-serif;
+font-size:10px;
+font-weight:bold;
+}
+
+
+#container
+{
+    height:1200px;
+    width:1700px;
+    position:relative;
+}
+
+#image
+{    
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+#black
+{
+    z-index:100;
+    position:absolute;
+    left:870px;
+    top:490px;
+}
+
+#divinity
+{
+    z-index:100;
+    position:absolute;
+    left:370px;
+    top:360px;
+}
+
+#doric
+{
+    z-index:100;
+    position:absolute;
+    left:440px;
+    top:375px;
+    color:red;
+}
+
+#lion
+{
+    z-index:100;
+    position:absolute;
+    left:580px;
+    top:500px;
+}
+
+#chantry
+{
+    z-index:100;
+    position:absolute;
+    left:560px;
+    top:600px;
+}
+
+#rata
+{
+    z-index:100;
+    position:absolute;
+    left:200px;
+    top:690px;
+}
+
+#draconis
+{
+    z-index:100;
+    position:absolute;
+    left:200px;
+    top:950px;
+    color:red;
+}
+
+#ember
+{
+    z-index:100;
+    position:absolute;
+    left:200px;
+    top:990px;
+    color:red;
+}
+
+
+#grove
+{
+    z-index:100;
+    position:absolute;
+    left:350px;
+    top:720px;
+}
+
+#hoelbrak
+{
+    z-index:100;
+    position:absolute;
+    left:730px;
+    top:460px;
+}
+
+#blue
+{   
+    z-index:100;
+    position:absolute;
+    left:440px;
+    top:540px;
+
+}
+
+#eternal
+{
+    z-index:100;
+    position:absolute;
+    left:440px;
+    top:565px;
+}
+
+#green
+{
+    z-index:100;
+    position:absolute;
+    left:440px;
+    top:590px;
+}
+
+#red
+{
+    z-index:100;
+    position:absolute;
+    left:440px;
+    top:615px;
+}
+
+#caledon
+{
+    z-index:100;
+    position:absolute;
+    left:350px;
+    top:620px;
+}
+
+#metrica
+{
+    z-index:100;
+    position:absolute;
+    left:250px;
+    top:600px;
+}
+
+#plains
+{
+    z-index:100;
+    position:absolute;
+    left:990px;
+    top:500px;
+}
+
+#wayfarer
+{
+    z-index:100;
+    position:absolute;
+    left:820px;
+    top:420px;
+}
+
+#queens
+{
+    z-index:100;
+    position:absolute;
+    left:370px;
+    top:420px;
+}
+
+#brisban
+{
+    z-index:100;
+    position:absolute;
+    left:230px;
+    top:520px;
+}
+
+#diessa
+{
+    z-index:100;
+    position:absolute;
+    left:890px;
+    top:455px;
+}
+
+#kessex
+{
+    z-index:100;
+    position:absolute;    
+    left:345px;
+    top:500px;
+}
+#snowden
+{
+    z-index:100;
+    position:absolute;
+    left:680px;
+    top:410px;
+}
+
+#gendar
+{
+    z-index:100;
+    position:absolute;
+    left:485px;
+    top:460px;
+}
+
+#lornar
+{
+    z-index:100;
+    position:absolute;
+    left:630px;
+    top:460px;
+}
+
+#field
+{
+    z-index:100;
+    position:absolute;
+    left:1050px;
+    top:600px;
+}
+
+#harathi
+{
+    z-index:100;
+    position:absolute;
+    left:480px;
+    top:340px;
+}
+
+#dredge
+{
+    z-index:100;
+    position:absolute;
+    left:725px;
+    top:535px;
+}
+
+#blazeridge
+{
+    z-index:100;
+    position:absolute;
+    left:1100px;
+    top:480px;
+}
+
+#claw
+{
+    z-index:100;
+    position:absolute;
+    left:530px;
+    top:580px;
+    color:lightblue;
+}
+
+
+#blood
+{
+    z-index:100;
+    position:absolute;
+    left:560px;
+    top:575px;
+}
+
+#iron
+{
+    z-index:100;
+    position:absolute;
+    left:980px;
+    top:400px;
+}
+
+#timberline
+{
+    z-index:100;
+    position:absolute;
+    left:660px;
+    top:650px;
+}
+
+#sparkfly
+{
+    z-index:100;
+    position:absolute;
+    left:550px;
+    top:700px;
+}
+
+#fire
+{
+    z-index:100;
+    position:absolute;
+    left:880px;
+    top:350px;
+}
+
+#mount
+{
+    z-index:100;
+    position:absolute;
+    left:640px;
+    top:800px;
+}
+
+#straits
+{
+    z-index:100;
+    position:absolute;
+    left:580px;
+    top:840px;
+}
+
+#siren
+{
+    z-index:100;
+    position:absolute;
+    left:570px;
+    top:930px;
+    color:red;
+}
+
+
+#bitter
+{
+    z-index:100;
+    position:absolute;
+    left:790px;
+    top:290px;
+    color:red;
+}
+
+
+#frost
+{
+    z-index:100;
+    position:absolute;
+    left:790px;
+    top:340px;
+}
+
+#malchor
+{
+    z-index:100;
+    position:absolute;
+    left:460px;
+    top:875px;
+}
+
+#cursed
+{
+    z-index:100;
+    position:absolute;
+    left:420px;
+    top:950px;
+}
+
+#southsun
+{
+    z-index:100;
+    position:absolute;
+    left:435px;
+    top:730px;
+    color:blue;
+}
+
+#heart
+{
+    z-index:100;
+    position:absolute;
+    left:540px;
+    top:545px;
+    color:blue;
+}
+
+#edge
+{
+    z-index:100;
+    position:absolute;
+    left:340px;
+    top:545px;
+    color:blue;
+}
+
+#dry
+{
+    z-index:100;
+    position:absolute;
+    left:180px;
+    top:570px;
+    color:yellow;
+}
+
+#silver
+{
+    z-index:100;
+    position:absolute;
+    left:180px;
+    top:490px;
+    color:yellow;
+}
+
+#verdant
+{
+    z-index:100;
+    position:absolute;
+    left:110px;
+    top:505px;
+    color:green;
+}
+
+#auric
+{
+    z-index:100;
+    position:absolute;
+    left:60px;
+    top:620px;
+    color:green;
+}
+
+#tangled
+{
+    z-index:100;
+    position:absolute;
+    left:120px;
+    top:640px;
+    color:green;
+}
+
+#dragon
+{
+    z-index:100;
+    position:absolute;
+    left:150px;
+    top:700px;
+    color:green;
+}
+
+#gilded
+{
+    z-index:100;
+    position:absolute;
+    left:140px;
+    top:550px;
+    color:gray;
+}
+
+#lost
+{
+    z-index:100;
+    position:absolute;
+    left:120px;
+    top:450px;
+    color:gray;
+}
+
+#bloodstone
+{
+    z-index:100;
+    position:absolute;
+    left:130px;
+    top:480px;
+    color:red;
+}
+
+
+#desert
+{
+    z-index:100;
+    position:absolute;
+    left:915px;
+    top:820px;
+    color:purple;
+}
+
+#crystal
+{
+    z-index:100;
+    position:absolute;
+    left:905px;
+    top:845px;
+    color:purple;
+}
+
+#elon
+{
+    z-index:100;
+    position:absolute;
+    left:905px;
+    top:860px;
+    color:purple;
+}
+
+#desolation
+{
+    z-index:100;
+    position:absolute;
+    left:915px;
+    top:875px;
+    color:purple;
+}
+
+#domain
+{
+    z-index:100;
+    position:absolute;
+    left:940px;
+    top:910px;
+    color:purple;
+}
+
+
+#progress
+{
+    position:relative;
+    font-size:14px;
+    font-weight:normal;
+}
+
