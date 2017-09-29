@@ -2,5 +2,5 @@
 * Example: https://dinfangion.github.io/gw2-world/
 * Tests: 
   * https://validator.w3.org/: This document was successfully checked as XHTML 1.0 Transitional!
-  * http://jigsaw.w3.org/css-validator/: Valid CSS version 3.
+  * https://jigsaw.w3.org/css-validator/: Valid CSS version 3.
 * MIT License
