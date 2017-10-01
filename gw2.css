@@ -29,24 +29,24 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:870px;
-    top:490px;
+    left:580px;
+    top:320px;
 }
 
 #divinity
 {
     z-index:100;
     position:absolute;
-    left:370px;
-    top:360px;
+    left:250px;
+    top:235px;
 }
 
 #doric
 {
     z-index:100;
     position:absolute;
-    left:440px;
-    top:375px;
+    left:290px;
+    top:245px;
     color:red;
 }
 
@@ -54,32 +54,32 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:580px;
-    top:500px;
+    left:380px;
+    top:340px;
 }
 
 #chantry
 {
     z-index:100;
     position:absolute;
-    left:560px;
-    top:600px;
+    left:380px;
+    top:390px;
 }
 
 #rata
 {
     z-index:100;
     position:absolute;
-    left:200px;
-    top:690px;
+    left:130px;
+    top:455px;
 }
 
 #draconis
 {
     z-index:100;
     position:absolute;
-    left:200px;
-    top:950px;
+    left:65px;
+    top:600px;
     color:red;
 }
 
@@ -87,8 +87,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:200px;
-    top:990px;
+    left:120px;
+    top:630px;
     color:red;
 }
 
@@ -97,24 +97,24 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:350px;
-    top:720px;
+    left:230px;
+    top:480px;
 }
 
 #hoelbrak
 {
     z-index:100;
     position:absolute;
-    left:730px;
-    top:460px;
+    left:480px;
+    top:310px;
 }
 
 #blue
 {   
     z-index:100;
     position:absolute;
-    left:440px;
-    top:540px;
+    left:290px;
+    top:350px;
 
 }
 
@@ -122,151 +122,151 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:440px;
-    top:565px;
+    left:290px;
+    top:375px;
 }
 
 #green
 {
     z-index:100;
     position:absolute;
-    left:440px;
-    top:590px;
+    left:290px;
+    top:400px;
 }
 
 #red
 {
     z-index:100;
     position:absolute;
-    left:440px;
-    top:615px;
+    left:290px;
+    top:425px;
 }
 
 #caledon
 {
     z-index:100;
     position:absolute;
-    left:350px;
-    top:620px;
+    left:230px;
+    top:400px;
 }
 
 #metrica
 {
     z-index:100;
     position:absolute;
-    left:250px;
-    top:600px;
+    left:170px;
+    top:385px;
 }
 
 #plains
 {
     z-index:100;
     position:absolute;
-    left:990px;
-    top:500px;
+    left:620px;
+    top:335px;
 }
 
 #wayfarer
 {
     z-index:100;
     position:absolute;
-    left:820px;
-    top:420px;
+    left:530px;
+    top:280px;
 }
 
 #queens
 {
     z-index:100;
     position:absolute;
-    left:370px;
-    top:420px;
+    left:250px;
+    top:280px;
 }
 
 #brisban
 {
     z-index:100;
     position:absolute;
-    left:230px;
-    top:520px;
+    left:160px;
+    top:350px;
 }
 
 #diessa
 {
     z-index:100;
     position:absolute;
-    left:890px;
-    top:455px;
+    left:590px;
+    top:295px;
 }
 
 #kessex
 {
     z-index:100;
     position:absolute;    
-    left:345px;
-    top:500px;
+    left:210px;
+    top:320px;
 }
 #snowden
 {
     z-index:100;
     position:absolute;
-    left:680px;
-    top:410px;
+    left:450px;
+    top:280px;
 }
 
 #gendar
 {
     z-index:100;
     position:absolute;
-    left:485px;
-    top:460px;
+    left:320px;
+    top:300px;
 }
 
 #lornar
 {
     z-index:100;
     position:absolute;
-    left:630px;
-    top:460px;
+    left:430px;
+    top:320px;
 }
 
 #field
 {
     z-index:100;
     position:absolute;
-    left:1050px;
-    top:600px;
+    left:715px;
+    top:400px;
 }
 
 #harathi
 {
     z-index:100;
     position:absolute;
-    left:480px;
-    top:340px;
+    left:320px;
+    top:220px;
 }
 
 #dredge
 {
     z-index:100;
     position:absolute;
-    left:725px;
-    top:535px;
+    left:480px;
+    top:360px;
 }
 
 #blazeridge
 {
     z-index:100;
     position:absolute;
-    left:1100px;
-    top:480px;
+    left:740px;
+    top:320px;
 }
 
 #claw
 {
     z-index:100;
     position:absolute;
-    left:530px;
-    top:580px;
+    left:350px;
+    top:380px;
     color:lightblue;
 }
 
@@ -275,64 +275,64 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:560px;
-    top:575px;
+    left:380px;
+    top:370px;
 }
 
 #iron
 {
     z-index:100;
     position:absolute;
-    left:980px;
-    top:400px;
+    left:645px;
+    top:265px;
 }
 
 #timberline
 {
     z-index:100;
     position:absolute;
-    left:660px;
-    top:650px;
+    left:430px;
+    top:425px;
 }
 
 #sparkfly
 {
     z-index:100;
     position:absolute;
-    left:550px;
-    top:700px;
+    left:370px;
+    top:460px;
 }
 
 #fire
 {
     z-index:100;
     position:absolute;
-    left:880px;
-    top:350px;
+    left:590px;
+    top:230px;
 }
 
 #mount
 {
     z-index:100;
     position:absolute;
-    left:640px;
-    top:800px;
+    left:430px;
+    top:525px;
 }
 
 #straits
 {
     z-index:100;
     position:absolute;
-    left:580px;
-    top:840px;
+    left:380px;
+    top:550px;
 }
 
 #siren
 {
     z-index:100;
     position:absolute;
-    left:570px;
-    top:930px;
+    left:380px;
+    top:615px;
     color:red;
 }
 
@@ -341,8 +341,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:790px;
-    top:290px;
+    left:525px;
+    top:190px;
     color:red;
 }
 
@@ -351,32 +351,32 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:790px;
-    top:340px;
+    left:525px;
+    top:215px;
 }
 
 #malchor
 {
     z-index:100;
     position:absolute;
-    left:460px;
-    top:875px;
+    left:300px;
+    top:580px;
 }
 
 #cursed
 {
     z-index:100;
     position:absolute;
-    left:420px;
-    top:950px;
+    left:280px;
+    top:620px;
 }
 
 #southsun
 {
     z-index:100;
     position:absolute;
-    left:435px;
-    top:730px;
+    left:280px;
+    top:460px;
     color:blue;
 }
 
@@ -384,8 +384,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:540px;
-    top:545px;
+    left:360px;
+    top:360px;
     color:blue;
 }
 
@@ -393,8 +393,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:340px;
-    top:545px;
+    left:230px;
+    top:365px;
     color:blue;
 }
 
@@ -402,8 +402,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:180px;
-    top:570px;
+    left:115px;
+    top:370px;
     color:yellow;
 }
 
@@ -411,8 +411,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:180px;
-    top:490px;
+    left:115px;
+    top:320px;
     color:yellow;
 }
 
@@ -420,8 +420,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:110px;
-    top:505px;
+    left:75px;
+    top:335px;
     color:green;
 }
 
@@ -429,8 +429,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:60px;
-    top:620px;
+    left:45px;
+    top:405px;
     color:green;
 }
 
@@ -438,8 +438,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:120px;
-    top:640px;
+    left:75px;
+    top:420px;
     color:green;
 }
 
@@ -447,8 +447,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:150px;
-    top:700px;
+    left:85px;
+    top:460px;
     color:green;
 }
 
@@ -456,8 +456,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:140px;
-    top:550px;
+    left:90px;
+    top:355px;
     color:gray;
 }
 
@@ -465,8 +465,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:120px;
-    top:450px;
+    left:75px;
+    top:290px;
     color:gray;
 }
 
@@ -474,8 +474,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:130px;
-    top:480px;
+    left:85px;
+    top:310px;
     color:red;
 }
 
@@ -484,8 +484,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:915px;
-    top:820px;
+    left:635px;
+    top:580px;
     color:purple;
 }
 
@@ -493,8 +493,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:905px;
-    top:845px;
+    left:640px;
+    top:615px;
     color:purple;
 }
 
@@ -502,8 +502,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:905px;
-    top:860px;
+    left:640px;
+    top:695px;
     color:purple;
 }
 
@@ -511,8 +511,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:915px;
-    top:875px;
+    left:650px;
+    top:805px;
     color:purple;
 }
 
@@ -520,8 +520,8 @@ font-weight:bold;
 {
     z-index:100;
     position:absolute;
-    left:940px;
-    top:910px;
+    left:755px;
+    top:875px;
     color:purple;
 }
 
